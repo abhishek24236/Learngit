@@ -1,2 +1,1 @@
-# Learngit
-This is for learning only
+This is a learning project
